@@ -1,8 +1,6 @@
 > Pass every exam in [maaref.ecnahad.ir](https://maaref.ecnahad.ir) with the Grade of 20 ! Easily!
 
-<p align="center">
-  <img width="600" src="![example of the code working](https://github.com/mrhalix/fucknahad/blob/main/example.png?raw=true)">
-</p>
+![example of the code working](https://raw.githubusercontent.com/Mrhalix/fucknahad/main/example.png)
 
 # How this works?
 
