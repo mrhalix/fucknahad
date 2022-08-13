@@ -1,0 +1,15 @@
+{
+  "data": {
+    "attempt": {
+      "id": 24308203,
+      "quiz_id": 116,
+      "user_id": "XXX",
+      "course_id": "49356",
+      "grade": null,
+      "status": 1,
+      "started_at": null,
+      "finished_at": null
+    },
+    "quiz_duration": 225
+  }
+}

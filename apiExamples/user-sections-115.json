@@ -1,0 +1,166 @@
+{
+    "data": [
+      {
+        "id": 642,
+        "title": "جلسه اول: چرایی و آثار زیارت",
+        "type": "1",
+        "type_title": "محتوی عادی",
+        "is_active": true,
+        "has_quiz": true,
+        "is_passed": 1,
+        "grade": 20,
+        "quiz_id": 310,
+        "quiz_availability_time": 0,
+        "duration": 1496,
+        "quiz_status": "1",
+        "description": null,
+        "contents": [
+          {
+            "id": 1007,
+            "title": "ویدئو",
+            "file_url": "https://files.cdnec.ir/cdnFile/50/324/6f9b4773299ce615ec1dec0717815779.mp4"
+          },
+          {
+            "id": 4257,
+            "title": "جزوه",
+            "file_url": "https://files.cdnec.ir/cdnFile/50/324/715904160820160531105202.pdf"
+          }
+        ]
+      },
+      {
+        "id": 643,
+        "title": "جلسه دوم: آداب زيارت",
+        "type": "1",
+        "type_title": "محتوی عادی",
+        "is_active": true,
+        "has_quiz": true,
+        "is_passed": 1,
+        "grade": 20,
+        "quiz_id": 311,
+        "quiz_availability_time": 0,
+        "duration": 1215,
+        "quiz_status": "1",
+        "description": "",
+        "contents": [
+          {
+            "id": 1009,
+            "title": "ویدئو",
+            "file_url": "https://files.cdnec.ir/cdnFile/50/325/321972ea19a9608daee5ec0cb0d5b348.mp4"
+          },
+          {
+            "id": 4260,
+            "title": "جزوه",
+            "file_url": "https://files.cdnec.ir/cdnFile/50/325/475653292620160531105207.pdf"
+          }
+        ]
+      },
+      {
+        "id": 644,
+        "title": "جلسه سوم: چگونه یک زیارت خوب به جا آوریم؟",
+        "type": "1",
+        "type_title": "محتوی عادی",
+        "is_active": true,
+        "has_quiz": true,
+        "is_passed": 1,
+        "grade": 20,
+        "quiz_id": 312,
+        "quiz_availability_time": 0,
+        "duration": 1172,
+        "quiz_status": "1",
+        "description": "",
+        "contents": [
+          {
+            "id": 1011,
+            "title": "ویدئو",
+            "file_url": "https://files.cdnec.ir/cdnFile/50/326/232811a49506b1733486631cb6adb6ef.mp4"
+          },
+          {
+            "id": 4261,
+            "title": "جزوه",
+            "file_url": "https://files.cdnec.ir/cdnFile/50/326/496632772420160531105213.pdf"
+          }
+        ]
+      },
+      {
+        "id": 645,
+        "title": "جلسه چهارم: آشنایی با احکام سفر شرعی",
+        "type": "1",
+        "type_title": "محتوی عادی",
+        "is_active": true,
+        "has_quiz": true,
+        "is_passed": 1,
+        "grade": 20,
+        "quiz_id": 313,
+        "quiz_availability_time": 0,
+        "duration": 1310,
+        "quiz_status": "1",
+        "description": "",
+        "contents": [
+          {
+            "id": 1013,
+            "title": "ویدئو",
+            "file_url": "https://files.cdnec.ir/cdnFile/50/327/b63a6297589d377fee01dca2246e2dca.mp4"
+          },
+          {
+            "id": 4264,
+            "title": "جزوه",
+            "file_url": "https://files.cdnec.ir/cdnFile/50/327/553855369320160531105220.pdf"
+          }
+        ]
+      },
+      {
+        "id": 646,
+        "title": "جلسه پنجم: احکام قصد اقامت در سفر برای فرد و خانواده",
+        "type": "1",
+        "type_title": "محتوی عادی",
+        "is_active": true,
+        "has_quiz": true,
+        "is_passed": 1,
+        "grade": 20,
+        "quiz_id": 314,
+        "quiz_availability_time": 0,
+        "duration": 1448,
+        "quiz_status": "1",
+        "description": "",
+        "contents": [
+          {
+            "id": 1015,
+            "title": "ویدئو",
+            "file_url": "https://files.cdnec.ir/cdnFile/50/328/60808ddea96cdd6d3f92e419bc404040.mp4"
+          },
+          {
+            "id": 4266,
+            "title": "جزوه",
+            "file_url": "https://files.cdnec.ir/cdnFile/50/328/563673937620160531105225.pdf"
+          }
+        ]
+      },
+      {
+        "id": 647,
+        "title": "جلسه ششم: احکام نماز و روزه مسافر",
+        "type": "1",
+        "type_title": "محتوی عادی",
+        "is_active": true,
+        "has_quiz": true,
+        "is_passed": 1,
+        "grade": 20,
+        "quiz_id": 315,
+        "quiz_availability_time": 0,
+        "duration": 1112,
+        "quiz_status": "1",
+        "description": "",
+        "contents": [
+          {
+            "id": 1017,
+            "title": "ویدئو",
+            "file_url": "https://files.cdnec.ir/cdnFile/50/329/d3fd755840ab7c076db5370dab0b1ce8.mp4"
+          },
+          {
+            "id": 4267,
+            "title": "جزوه",
+            "file_url": "https://files.cdnec.ir/cdnFile/50/329/321599085320160531105230.pdf"
+          }
+        ]
+      }
+    ]
+  }

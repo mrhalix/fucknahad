@@ -1,0 +1,30 @@
+{
+    "data": {
+      "id": 182474446,
+      "option": [
+        {
+          "id": 5738,
+          "body": "<p dir=\"RTL\">امام جعفر صادق(ع)",
+          "is_correct": 1,
+          "question_id": 1371
+        }
+      ],
+      "attempts_id": 24308359,
+      "content": null,
+      "attachment": null,
+      "question": [
+        {
+          "id": 1371,
+          "body": "حدیث شریف «کسی که نماز را سبک بشمارد سیمای انسان صالح را از دست می­دهد»؛ ازکدام معصوم است؟",
+          "score": 1,
+          "quiz_id": 118,
+          "question_type": "1",
+          "question_type_title": "چند گزینه ای",
+          "has_random_options": 1
+        }
+      ],
+      "answered_at": "2022-08-13 09:42:58",
+      "status": 2,
+      "status_title": "پاسخ داده شده"
+    }
+  }

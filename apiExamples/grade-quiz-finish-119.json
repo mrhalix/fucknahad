@@ -1,0 +1,12 @@
+{
+    "data": {
+      "id": 24308466,
+      "quiz_id": 119,
+      "user_id": "XXX",
+      "course_id": 49356,
+      "grade": 20,
+      "status": 1,
+      "started_at": "2022-08-13 09:48:50",
+      "finished_at": "2022-08-13 09:48:53"
+    }
+  }
