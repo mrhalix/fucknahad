@@ -1,3 +1,7 @@
+#### Unfortunately I think you are a bit late, recently some students reported that this obvious bug is patched and you can no more pass exams using this script.
+##### so I am going to archive it! :(
+
+
 > Pass every exam in [maaref.ecnahad.ir](https://maaref.ecnahad.ir) with the Grade of 20 ! Easily!
 
 ![example of the code working](https://raw.githubusercontent.com/Mrhalix/fucknahad/main/example.png)
